@@ -9,6 +9,7 @@ def make_great(magicians, new_magicians):
 
 list_magicians = ['Aditya', 'Donato', 'Vixey']
 new_list_mag = []
+
+make_great(list_magicians[:], new_list_mag)
 show_magicians(list_magicians)
-make_great(list_magicians, new_list_mag)
-print(new_list_mag)
+show_magicians(new_list_mag)
