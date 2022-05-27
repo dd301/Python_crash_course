@@ -1,5 +1,5 @@
 def build_car(manufacturer, model, **car_info):
-       """Build a dictionary containing everything we know about a user."""
+       """Build a dictionary containing everything we know about a car."""
        profile = {}
        profile['manufacturer_name'] = manufacturer
        profile['model_name'] = model
