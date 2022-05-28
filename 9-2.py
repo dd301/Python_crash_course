@@ -11,9 +11,10 @@ class Restaurant():
     def open_restaurant(self):
         print("The restaurant is open.")
 
-restaurant = Restaurant('Saffron', 'Butter Chicken')
-print("The restaurant is " + restaurant.restaurant_name
-+ " and the cuisine is " + restaurant.cuisine_type + ".")
+restaurant1 = Restaurant('Saffron', 'Butter Chicken')
+restaurant2 = Restaurant('BM dhaba', 'Chicken dry fry')
+restaurant3 = Restaurant('Pakghor', 'Chicken chowmein')
 
-restaurant.describe_restaurant()
-restaurant.open_restaurant()
+restaurant1.describe_restaurant()
+restaurant2.describe_restaurant()
+restaurant3.describe_restaurant()
