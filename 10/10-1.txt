@@ -1,0 +1,7 @@
+In Python you can write variables 
+In Python you can write functions
+In Python you can write classes
+In Python you have conditional statements
+In Python you have loops
+In Python you have data types
+In Python you have data structures
