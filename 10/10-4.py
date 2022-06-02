@@ -1,7 +1,6 @@
 filename = 'guest_book.txt'
 
-flag = True
-while flag:
+while True:
     name = input('What is your name? (Press q to quit) ')
     if name != 'q':
         visit = "Welcome, " + name + '!'
