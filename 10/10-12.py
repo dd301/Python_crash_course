@@ -1,6 +1,6 @@
 import json
 
-filename = 'fav_num.txt'
+filename = 'fav_num.json'
 
 try:
     with open(filename) as f_obj:
