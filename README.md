@@ -1,5 +1,3 @@
 # Python-crash-course
 
-Exercises from the book Python Crash Course (PCC) by Eric Matthes (First Edition).
-
-Part 2 exercises are from the second edition.
+A few exercises from part 1 of the book Python Crash Course (PCC) by Eric Matthes (First Edition).
